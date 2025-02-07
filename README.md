@@ -1,63 +1,75 @@
-PlanIt 📚✨
+**PlanIt**📚✨
 AI-Assisted Study & Productivity Platform
 
-🚀 Overview
+🚀 **Overview**
 PlanIt is an AI-powered EdTech platform designed to help students efficiently manage their study schedules, improve productivity, and maintain mental well-being. With features like AI-driven scheduling, mind map generation, a mental health chatbot, and a student community, PlanIt provides an all-in-one solution for academic success.
 
-🔥 Features
+🔥 **Features**
 
-1️⃣ Mapify - Mind Map Generator
-📌 Upload a PDF, extract key points, and generate a diagrammatic flowchart for structured learning.
- 🛠 Tech Stack: React, Node.js, Google Gemini API
+1️⃣ **Mapify** - _Mind Map Generator_ <br>
+📌 Upload a PDF, extract key points, and generate a diagrammatic flowchart for structured learning.<br>
+ 🛠 _Tech Stack_: React, Node.js, Google Gemini API
 
-2️⃣ Zeni - Mental Health Chatbot
-💬 An AI chatbot designed to support students emotionally and act as a virtual best friend.
-🛠 Tech Stack: HTML, CSS, JavaScript, Groq API
+2️⃣ **Zeni** - _Mental Health Chatbot_ <br>
+💬 An AI chatbot designed to support students emotionally and act as a virtual best friend.<br>
+🛠 _Tech Stack_: HTML, CSS, JavaScript, Groq API
 
-3️⃣ FileTalk - Chat with PDF
+3️⃣ **FileTalk** - _Chat with PDF_ <br>
 📖 Upload a PDF and interact with it through AI-powered Q&A. Includes predefined prompts like:
-Summarize
-List key points
-Generate questions
-🛠 Tech Stack: Streamlit, Groq API
+Summarize<br>
+List key points<br>
+Generate questions<br>
+🛠 _Tech Stack_: Streamlit, Groq API
 
-4️⃣ FocusFlow - Pomodoro Timer
-⏳ Customize study/break timers with:
-Theme selection & custom backgrounds
-Integrated Spotify playlist
-Doubt-clearing chatbot that keeps students on track
-🛠 Tech Stack: HTML, CSS, JavaScript, Google Gemini API
+4️⃣ **FocusFlow** - _Pomodoro Timer_ <br>
+⏳ Customize study/break timers with:<br>
+Theme selection & custom backgrounds<br>
+Integrated Spotify playlist<br>
+Doubt-clearing chatbot that keeps students on track<br>
+🛠 _Tech Stack_: HTML, CSS, JavaScript, Google Gemini API
 
-5️⃣ GeekHub - Student Community
-🌍 A platform for students to:
-Share files & posts
-Like, comment, and interact with others
-Access & download free resources
-🛠 Tech Stack: HTML, CSS, Python Flask, SQLite
+5️⃣ **GeekHub** - _Student Community_ <br>
+🌍 A platform for students to:<br>
+Share files & posts<br>
+Like, comment, and interact with others<br>
+Access & download free resources<br>
+🛠 _Tech Stack_: HTML, CSS, Python Flask, SQLite
 
-6️⃣ CalmSphere - Meditation & Wellness
-🧘 A meditation hub featuring:
-YouTube-guided relaxation sessions
-Advice cards to promote student well-being
-🛠 Tech Stack: HTML, CSS, JavaScript
+6️⃣ **CalmSphere** - _Meditation & Wellness_ <br>
+🧘 A meditation hub featuring:<br>
+YouTube-guided relaxation sessions<br>
+Advice cards to promote student well-being<br>
+🛠 _Tech Stack_: HTML, CSS, JavaScript
 
-7️⃣ PeakPlanner - Personalized Timetable Generator
-📅 Generates an AI-personalized timetable based on the user's study preferences, ensuring efficient time management with breaks.
-🛠 Tech Stack: HTML, CSS, JavaScript, Google Gemini API
+7️⃣ **PeakPlanner** - _Personalized Timetable Generator_ <br>
+📅 Generates an AI-personalized timetable based on the user's study preferences, ensuring efficient time management with breaks.<br>
+🛠 _Tech Stack_: HTML, CSS, JavaScript, Google Gemini API
 
-8️⃣ ReviewRealm - Feedback System
-📊 Gathers user feedback via Google Forms and presents graphical analytics on how much users like specific features.
-🛠 Tech Stack: Streamlit, Matplotlib
+8️⃣ **ReviewRealm** - _Feedback System_ <br>
+📊 Gathers user feedback via Google Forms and presents graphical analytics on how much users like specific features.<br>
+🛠 _Tech Stack_: Streamlit, Matplotlib
 
-9️⃣ CharityBridge - Social Impact (Future Scope)
-🌟 Currently redirects users to NGOs for donations, with future plans for a student-led charity initiative.
-🛠 Tech Stack: HTML, CSS, JavaScript
+9️⃣ **CharityBridge** - _Social Impact (Future Scope)_ <br>
+🌟 Currently redirects users to NGOs for donations, with future plans for a student-led charity initiative.<br>
+🛠 _Tech Stack_: HTML, CSS, JavaScript
 
-🤝 CONTRIBUTORS
-Keerthi Lakshmi H - Backend for all features and frontend
-Mrinmayi Verma - Chat with PDF (FileTalk) backend & frontend, PPT creation
-Varshini K - Frontend
-Charumathi Sri P - Frontend
+🤝 **CONTRIBUTORS**<br>
+**Keerthi Lakshmi H**- <br>
+_Backend_ <br>
+PeakPlanner,Zeni,CalmSphere,Mapify,FocusFlow,GeekHub,ReviewRealm<br>
+_Frontend_ <br>
+Mapify,FocusFlow,GeekHub<br>
+**Mrinmayi Verma** -<br>
+_Backend_ <br>
+FileTalk<br>
+_Frontend_ <br>
+FileTalk,CalmSphere,CharityBridge<br>
+**Varshini K**-<br>
+_Frontend_ <br>
+LandingPage,CharityBridge<br>
+**Charumathi Sri P** - <br>
+_Frontend_ <br>
+LandingPage,PeakPlanner,Zeni,FocusFlow,ReviewRealm<br>
 
-The ppt and the demo video can be viewed below
+**The ppt and the demo video can be viewed below** <br>
 [TD29-HACKASTIC.pptx (1).pdf](https://github.com/user-attachments/files/18713069/TD29-HACKASTIC.pptx.1.pdf)
