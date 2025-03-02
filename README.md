@@ -1,4 +1,4 @@
-**PlanIt**
+**PlanIt**<br>
 PlanIt is an intelligent productivity and wellness assistant designed to help users maintain focus, balance, and mental well-being in an increasingly digital world. By integrating mindful break reminders, deep breathing exercises, and goal-setting techniques, PlanIt empowers users to manage their time effectively while reducing digital distractions.With features like time-blocking, daily planners, and smart session tracking, PlanIt ensures that users can optimize their study or work sessions without feeling overwhelmed. Whether it's setting structured goals or taking mindful pauses, PlanIt fosters a healthier and more productive digital experience.
 **Features**
 
