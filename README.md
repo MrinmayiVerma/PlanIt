@@ -1,6 +1,6 @@
-**PlanIt**<br>
+# PlanIt
 PlanIt is an intelligent productivity and wellness assistant designed to help users maintain focus, balance, and mental well-being in an increasingly digital world. By integrating mindful break reminders, deep breathing exercises, and goal-setting techniques, PlanIt empowers users to manage their time effectively while reducing digital distractions.With features like time-blocking, daily planners, and smart session tracking, PlanIt ensures that users can optimize their study or work sessions without feeling overwhelmed. Whether it's setting structured goals or taking mindful pauses, PlanIt fosters a healthier and more productive digital experience.
-**Features**
+# Features
 
 1️⃣ **Mapify** - _Mind Map Generator_ <br>
 📌 Upload a PDF, extract key points, and generate a diagrammatic flowchart for structured learning.<br>
@@ -49,7 +49,7 @@ Advice cards to promote student well-being<br>
 🌟 Currently redirects users to NGOs for donations, with future plans for a student-led charity initiative.<br>
 🛠 _Tech Stack_: HTML, CSS, JavaScript
 
-🤝 **CONTRIBUTORS**<br>
+# 🤝 CONTRIBUTORS
 **Keerthi Lakshmi H**- <br>
 _Backend_ <br>
 PeakPlanner,Zeni,CalmSphere,Mapify,FocusFlow,GeekHub,ReviewRealm<br>
