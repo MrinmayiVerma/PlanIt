@@ -1,10 +1,6 @@
-**PlanIt**📚✨
-AI-Assisted Study & Productivity Platform
-
-🚀 **Overview**
-PlanIt is an AI-powered EdTech platform designed to help students efficiently manage their study schedules, improve productivity, and maintain mental well-being. With features like AI-driven scheduling, mind map generation, a mental health chatbot, and a student community, PlanIt provides an all-in-one solution for academic success.
-
-🔥 **Features**
+**PlanIt**
+PlanIt is an intelligent productivity and wellness assistant designed to help users maintain focus, balance, and mental well-being in an increasingly digital world. By integrating mindful break reminders, deep breathing exercises, and goal-setting techniques, PlanIt empowers users to manage their time effectively while reducing digital distractions.With features like time-blocking, daily planners, and smart session tracking, PlanIt ensures that users can optimize their study or work sessions without feeling overwhelmed. Whether it's setting structured goals or taking mindful pauses, PlanIt fosters a healthier and more productive digital experience.
+**Features**
 
 1️⃣ **Mapify** - _Mind Map Generator_ <br>
 📌 Upload a PDF, extract key points, and generate a diagrammatic flowchart for structured learning.<br>
